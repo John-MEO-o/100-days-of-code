@@ -9,3 +9,6 @@ I've joined a freeCodeCamp Responsive Web Design curriculum, and complete the In
 
 ### R1D2
 I've complete the Basic CSS part, there was an awesome variable-tests with penguins
+
+### R1D3
+Hooray, I've complete Applied Visual Design part of curriculum, there was a lot of helpful information about styling effects, I'm very glad to join that challenge!
