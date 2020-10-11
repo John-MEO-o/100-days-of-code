@@ -12,3 +12,6 @@ I've complete the Basic CSS part, there was an awesome variable-tests with pengu
 
 ### R1D3
 Hooray, I've complete Applied Visual Design part of curriculum, there was a lot of helpful information about styling effects, I'm very glad to join that challenge!
+
+### R1D4
+Today I've complete Applied Accessibility curriculum part, there was a valuable recommendations about marking web pages to provide proper functionality on many user-devices
