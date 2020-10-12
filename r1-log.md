@@ -15,3 +15,8 @@ Hooray, I've complete Applied Visual Design part of curriculum, there was a lot 
 
 ### R1D4
 Today I've complete Applied Accessibility curriculum part, there was a valuable recommendations about marking web pages to provide proper functionality on many user-devices
+
+### R1D5
+I've successfully passed the Responsive Web Design Principles, this chapter were helpful to understand media-query measurement units.
+and CSS Flexboxes curriculum part too! I've learned this way of element positioning earlier so this was just refreshing task for me. 
+Looking forward to CSS Grid curriculum part - this would be very useful for practicing
