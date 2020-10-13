@@ -22,4 +22,4 @@ also I've complete the CSS Flexboxes curriculum part too! I was learned this cha
 Looking forward to CSS Grid curriculum part - this would be very useful for practicing
 
 ### R1D6
-The CSS Grids are complete, so I'm prepearing to setup my portfolio now)
+The CSS Grids are complete, so I'm preparing to setup my portfolio now)
