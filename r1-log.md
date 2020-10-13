@@ -20,3 +20,6 @@ Today I've complete Applied Accessibility curriculum part, there was a valuable 
 I've successfully passed the Responsive Web Design Principles, this chapter were helpful to understand media-query measurement units.
 also I've complete the CSS Flexboxes curriculum part too! I was learned this chapter earlier so this was just refreshing task for me. 
 Looking forward to CSS Grid curriculum part - this would be very useful for practicing
+
+### R1D6
+The CSS Grids are complete, so I'm prepearing to setup my portfolio now)
