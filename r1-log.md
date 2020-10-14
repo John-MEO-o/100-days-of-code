@@ -23,3 +23,8 @@ Looking forward to CSS Grid curriculum part - this would be very useful for prac
 
 ### R1D6
 The CSS Grids are complete, so I'm preparing to setup my portfolio now)
+
+### R1D7
+I've started working on My own portfolio. 
+Site available at https://codepen.io/jayson-lz/pen/OJXywWm
+At this moment there's only a header, but it is responsive, and I'm glad that I've set it up.
