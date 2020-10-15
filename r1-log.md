@@ -28,3 +28,6 @@ The CSS Grids are complete, so I'm preparing to setup my portfolio now)
 I've started working on My own portfolio. 
 Site available at https://codepen.io/jayson-lz/pen/OJXywWm
 At this moment there's only a header, but it is responsive, and I'm glad that I've set it up.
+
+### R2D8
+I've fill the most of the page content, but stuck on footer css styling... A lot of time were spent, will continue tomorrow
