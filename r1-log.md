@@ -31,3 +31,9 @@ At this moment there's only a header, but it is responsive, and I'm glad that I'
 
 ### R2D8
 I've fill the most of the page content, but stuck on footer css styling... A lot of time were spent, will continue tomorrow
+
+### R3D9
+I've fix those css settings, 
+then I've renewed a DOM elements due to freeCodeCamp recommendations
+afterwards I create a footer with donate code
+Next day I'll set a media queries
