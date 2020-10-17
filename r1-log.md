@@ -37,3 +37,9 @@ I've fix those css settings,
 then I've renewed a DOM elements due to freeCodeCamp recommendations
 afterwards I create a footer with donate code
 Next day I'll set a media queries
+
+### R4D10
+My portfolio site is ready, based on freeCodeCamp conditions... 
+Perfectionism is infinite process, 
+and my learning are too, but they're parallel, so I'll not continue to promoting UX / UI metrics to its best values, 
+I need to go further!
