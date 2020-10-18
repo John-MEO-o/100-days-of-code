@@ -43,3 +43,9 @@ My portfolio site is ready, based on freeCodeCamp conditions...
 Perfectionism is infinite process, 
 and my learning are too, but they're parallel, so I'll not continue to promoting UX / UI metrics to its best values, 
 I need to go further!
+
+### R1D11
+I assumed my web design curriculum part would be over with developed Portfolio site, 
+but it seems I'll need to develop all page variants to finish it.
+so my tribute page task would be placed here:
+https://codepen.io/jayson-lz/pen/dyXXNyg
