@@ -49,3 +49,8 @@ I assumed my web design curriculum part would be over with developed Portfolio s
 but it seems I'll need to develop all page variants to finish it.
 so my tribute page task would be placed here:
 https://codepen.io/jayson-lz/pen/dyXXNyg
+
+### R2D12
+Tribute Page is complete:
+https://codepen.io/jayson-lz/pen/dyXXNyg
+can't wait to start JS curriculum part...
