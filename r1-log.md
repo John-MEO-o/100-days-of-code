@@ -54,3 +54,8 @@ https://codepen.io/jayson-lz/pen/dyXXNyg
 Tribute Page is complete:
 https://codepen.io/jayson-lz/pen/dyXXNyg
 can't wait to start JS curriculum part...
+
+### R1D13
+My Survey Form is complete:
+https://codepen.io/jayson-lz/pen/oNLzEeW
+a lot of page types need to make)
