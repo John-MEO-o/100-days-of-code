@@ -59,3 +59,8 @@ can't wait to start JS curriculum part...
 My Survey Form is complete:
 https://codepen.io/jayson-lz/pen/oNLzEeW
 a lot of page types need to make)
+
+### R1D14
+I've been started My product Landing Page:
+https://codepen.io/jayson-lz/pen/dyXOrBQ
+for now its just an html page with no styles added, then I'll add the css and finish this task
