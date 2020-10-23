@@ -64,3 +64,7 @@ a lot of page types need to make)
 I've been started My product Landing Page:
 https://codepen.io/jayson-lz/pen/dyXOrBQ
 for now its just an html page with no styles added, then I'll add the css and finish this task
+
+### R2D15
+At last I'm getting to the final task of Web Responsive Design chapter!
+Landing Page is complete now)
