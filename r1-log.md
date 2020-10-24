@@ -68,3 +68,8 @@ for now its just an html page with no styles added, then I'll add the css and fi
 ### R2D15
 At last I'm getting to the final task of Web Responsive Design chapter!
 Landing Page is complete now)
+
+### R1D16
+I've started to create a Documentation Page. 
+https://codepen.io/jayson-lz/pen/wvWgROo
+There's a lot of key points to do. Page style are not set at this moment. I will set it tomorrow.
