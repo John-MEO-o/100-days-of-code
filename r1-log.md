@@ -73,3 +73,8 @@ Landing Page is complete now)
 I've started to create a Documentation Page. 
 https://codepen.io/jayson-lz/pen/wvWgROo
 There's a lot of key points to do. Page style are not set at this moment. I will set it tomorrow.
+
+### R4D17
+Hooray, I've finished Web Responsive design curriculum chapter, 
+last two days were tough on daily work...
+so now I'm diving in Javascript part at last!)
