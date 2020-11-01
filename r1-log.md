@@ -78,3 +78,7 @@ There's a lot of key points to do. Page style are not set at this moment. I will
 Hooray, I've finished Web Responsive design curriculum chapter, 
 last two days were tough on daily work...
 so now I'm diving in Javascript part at last!)
+
+### R1D18
+I've started to learn the JS Basics, for now I've complete 25% of the first curriculum part (110 tasks).
+There's a lot of interesting examples, trying to closer understanding of it.
