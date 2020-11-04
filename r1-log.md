@@ -82,3 +82,15 @@ so now I'm diving in Javascript part at last!)
 ### R1D18
 I've started to learn the JS Basics, for now I've complete 25% of the first curriculum part (110 tasks).
 There's a lot of interesting examples, trying to closer understanding of it.
+
+### R2D19
+I'm solving JS Basics tasks, 
+so I've passed an arrays: 
+- how to store values inner;
+- how to remove them...
+then was a functions:
+- how to call;
+- how to check whether variable used as global or as local namespace;
+- how to use arguments;
+- how to return results of execution
+and so on, it was a very helpful lesson after my php experience
