@@ -94,3 +94,9 @@ then was a functions:
 - how to use arguments;
 - how to return results of execution
 and so on, it was a very helpful lesson after my php experience
+
+### R3D20
+I feel that the tasks are getting more complicated - it's nice!
+Today I passed the function comparison operators and switch use cases - I saw this statement earlier in PHP
+so the learning process was pretty soft for me until I started the Counting Cards lesson
+Tomorrow I'll try to solve it, good luck to everyone who codes at night))
