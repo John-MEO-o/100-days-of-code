@@ -100,3 +100,7 @@ I feel that the tasks are getting more complicated - it's nice!
 Today I passed the function comparison operators and switch use cases - I saw this statement earlier in PHP
 so the learning process was pretty soft for me until I started the Counting Cards lesson
 Tomorrow I'll try to solve it, good luck to everyone who codes at night))
+
+### R4D21
+I finally solved the CardCounter task. This problem was not solved with impudence, so I had to sit and think about its solution. A few tricky things was on it)
+Tommorow I'll start to learn objects and its properties! Thanks to everybody who's cheering me up in this challendge!
