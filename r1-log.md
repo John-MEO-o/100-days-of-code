@@ -104,3 +104,6 @@ Tomorrow I'll try to solve it, good luck to everyone who codes at night))
 ### R4D21
 I finally solved the CardCounter task. This problem was not solved with impudence, so I had to sit and think about its solution. A few tricky things was on it)
 Tommorow I'll start to learn objects and its properties! Thanks to everybody who's cheering me up in this challendge!
+
+### R5D22
+A lot of interesting examples being reviewed in this JS Curriculum, I'm on 80% of completion now.
