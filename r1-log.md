@@ -107,3 +107,8 @@ Tommorow I'll start to learn objects and its properties! Thanks to everybody who
 
 ### R5D22
 A lot of interesting examples being reviewed in this JS Curriculum, I'm on 80% of completion now.
+
+### R6D23
+I'm stuck at the Record Collection task, 
+its conditions required to use a complex of achieved programming skills, 
+at this moment my brain aren't ready to get a quick solution
