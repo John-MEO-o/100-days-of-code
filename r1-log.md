@@ -112,3 +112,8 @@ A lot of interesting examples being reviewed in this JS Curriculum, I'm on 80% o
 I'm stuck at the Record Collection task, 
 its conditions required to use a complex of achieved programming skills, 
 at this moment my brain aren't ready to get a quick solution
+
+### R7D24
+JS is not so simple, 
+I'm stuck on Nesting Loops task, 
+There's a lot of interesting and complicated nuances on this part of curriculum
