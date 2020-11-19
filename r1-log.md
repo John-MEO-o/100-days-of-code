@@ -117,3 +117,7 @@ at this moment my brain aren't ready to get a quick solution
 JS is not so simple, 
 I'm stuck on Nesting Loops task, 
 There's a lot of interesting and complicated nuances on this part of curriculum
+
+### R8D25
+I hangs over MultiplierTask, I tried to use multiple nested checks but it didn't help in any way
+So I'll check another way later, sad that long time being wasted
