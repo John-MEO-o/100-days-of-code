@@ -125,3 +125,8 @@ So I'll check another way later, sad that long time being wasted
 ### R9D26
 So I've successfully passed few tasks about js functions,
 will continue tomorrow from "Generate Random Whole Numbers within a Range" task
+
+### R10D27
+I've finally complete JS Basics part of Curriculum
+It has a lot of interesting tasks which I will repeat in a close time because it is important to understand the key principles of problem solving algorithms
+At my next step I'm starting to learn ES6! Hooray!
